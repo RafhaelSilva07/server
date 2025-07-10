@@ -8,6 +8,48 @@
       "when": 1751982440833,
       "tag": "0000_wandering_tombstone",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752083080435,
+      "tag": "0001_clammy_madame_web",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752084662659,
+      "tag": "0002_tiny_overlord",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752099365800,
+      "tag": "0003_mute_shatterstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1752150160960,
+      "tag": "0004_clumsy_kronos",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1752150725948,
+      "tag": "0005_clammy_sister_grimm",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1752151310131,
+      "tag": "0006_fearless_princess_powerful",
+      "breakpoints": true
     }
   ]
 }
